@@ -6,7 +6,11 @@ public class GItHubPractice_1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("==== Hi I Am GitHub ====");
+		GItHubPractice_1.modify();
 		
 	}
 
+	public  static void modify() {
+		System.out.println("==== I am Modified Version====");
+	}
 }
