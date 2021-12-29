@@ -13,4 +13,8 @@ public class GItHubPractice_1 {
 	public  static void modify() {
 		System.out.println("==== I am Modified Version====");
 	}
+	
+	public void getComplict() {
+		System.out.println("=== gajab BeIjjati He =====");
+	}
 }
