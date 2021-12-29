@@ -17,4 +17,8 @@ public class GItHubPractice_1 {
 	public void getComplict() {
 		System.out.println("=== gajab BeIjjati He =====");
 	}
+	
+	public void ekOrMethod() {
+		System.out.println("==========May be This Is ========");
+	}
 }
