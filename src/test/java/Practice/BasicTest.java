@@ -7,7 +7,7 @@ public class BasicTest
 	@Test
 	public void add()
 	{
-		System.out.println("method Added");
+		System.out.println("added method");
 	}
-	
+
 }
